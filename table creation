@@ -1,3 +1,4 @@
+ -- Following script is to create needed tables in MySQL
  create table using sql
     create table netflix_database 
    ( [n_id] int 

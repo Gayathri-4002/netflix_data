@@ -3,7 +3,6 @@ from pymysql import MySQLError
 import pymysql
 import sqlalchemy as sal
 
-
 # Initialize all global variables here
 filePath = "C:/data_analysis_project/netflix_project/datasets/Netflix_Data_new.csv"
 
