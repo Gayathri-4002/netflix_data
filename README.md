@@ -15,9 +15,14 @@ This project aims to analyze Netflix release trends, and content recommendations
 * Age Wise Trend – Movies released for particular age groups
 * Recommendation System Insights – Analyzing content suggestions and improving recommendations.
 #### Dependencies
+To install Pandas library
+> *pip install pandas*
 
+To install SQLAlchemy
+> *pip install SQLAlchemy*
 
-  
+To install MYSQL ODBC connector
+> *https://dev.mysql.com/downloads/connector/odbc/*
 
 
 
