@@ -5,8 +5,9 @@ This project aims to analyze Netflix release trends, and content recommendations
 * Data Collection & Cleaning – Handling missing values, duplicates, and incorrect data.
 * Exploratory Data Analysis (EDA) – Analyzing release trends and recommendations
 * Recommendation System Insights – Evaluating Netflix’s recommendation patterns.
-
-  ![image](https://github.com/user-attachments/assets/5d5dc71c-f638-4627-8f95-62dc56972809)
+<br><br>
+ ![image](https://github.com/user-attachments/assets/5d5dc71c-f638-4627-8f95-62dc56972809)
+<br>
 
 #### Tools & Technologies:
 * Python (Pandas library, SQLALchemy)
